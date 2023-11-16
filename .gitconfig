@@ -1,0 +1,8 @@
+[user]
+	name = crslaureano
+	email = crslaureano@outlook.com.pe
+	password = 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
+[core]
+	editor = nvim
+[credential]
+	helper = cache
