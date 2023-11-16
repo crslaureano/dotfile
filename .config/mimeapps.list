@@ -1,0 +1,10 @@
+[Default Applications]
+application/pdf=xreader.desktop
+x-scheme-handler/notion=notion-app.desktop
+image/jpeg=feh.desktop
+image/png=feh.desktop
+
+[Added Associations]
+application/pdf=xreader.desktop;
+image/jpeg=feh.desktop;
+image/png=feh.desktop;
