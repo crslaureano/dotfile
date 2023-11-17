@@ -1,7 +1,0 @@
-- match:
-   - "system-internal"
-- config:
-   "automount": true
-   "automount_options": ["--udisks2"]
-   "device_timeout": 10
-
